@@ -1,0 +1,25 @@
+{
+  "name": "expressintro",
+  "version": "1.0.0",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hermantsyselskyi/Weekend1_Salary_Calc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hermantsyselskyi/Weekend1_Salary_Calc/issues"
+  },
+  "homepage": "https://github.com/hermantsyselskyi/Weekend1_Salary_Calc#readme",
+  "description": ""
+}
